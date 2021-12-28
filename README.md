@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raduk18
+- 👀 I’m interested in faceit
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me https://steamcommunity.com/id/danciocan/
